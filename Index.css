@@ -1,0 +1,27 @@
+* {
+    margin: 0%;
+}
+
+#canvas {
+    position: absolute;
+}
+header {
+    height: 70px;
+    background-color: rgb(26, 25, 25);
+    color: white;
+    font-size: 40px;
+}
+
+span {
+    position: relative;
+    left : 43%;
+}
+
+button {
+    position: relative;
+    height: 50px;
+    left: 5%;
+
+    text-align: center;
+    
+}
