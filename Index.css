@@ -10,12 +10,14 @@ header {
     background-color: rgb(26, 25, 25);
     color: white;
     font-size: 40px;
+    display: flex;
+    justify-content: space-between;
 }
 
-span {
+/* span {
     position: relative;
     left : 43%;
-}
+} */
 
 button {
     position: relative;
